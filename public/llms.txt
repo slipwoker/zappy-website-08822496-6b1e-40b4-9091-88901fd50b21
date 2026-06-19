@@ -1,0 +1,100 @@
+# Football online — Generative Engine Optimization Map
+
+> An online store specializing in football (soccer) shirts and jerseys. The business focuses on selling football apparel, likely catering to football fans and enthusiasts who want to purchase team jerseys or football-related clothing.
+
+---
+
+## Pages
+
+### בית
+https://football-online-08822496.zappy5.app
+חנות האונליין המובילה לחולצות וגופיות כדורגל מקוריות. הצטרף עכשיו לעולם האוהדים, בחר את הקבוצה שלך ולבש את התשוקה. משלוח מהיר, מבצעים חמים וכל העדכונים ישירות אליך!
+
+### עולם האוספים
+https://football-online-08822496.zappy5.app/collections-world
+צלול לאוסף עצום של גופיות כדורגל מכל הליגות והנבחרות בעולם. מצא דגמים נדירים, עיצובים בלעדיים ומהדורות מיוחדות שיגרמו לך להתבלט ביציע. התחל לאסוף עוד היום!
+
+### אודות
+https://football-online-08822496.zappy5.app/about
+הכירו את האנשים שהפכו אהבת כדורגל לחזון – חנות שמביאה את רוח המגרש לכל אוהד. אנו מחויבים לאיכות, מקוריות ושירות אישי שיגרום לך להרגיש חלק מהקבוצה. בוא לשמוע עוד.
+
+### צור קשר
+https://football-online-08822496.zappy5.app/contact
+צריך עזרה בבחירת החולצה המושלמת? רוצה להתלונן או סתם לדבר כדורגל? צוות המומחים שלנו זמין לענות על כל פנייה במהירות ובאהבה. מלא את הטופס וקבל מענה אישי תוך שעות!
+
+### Products
+https://football-online-08822496.zappy5.app/products
+המוצרים שלנו - Football online
+
+### Cart
+https://football-online-08822496.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://football-online-08822496.zappy5.app/checkout
+תשלום
+
+### Login
+https://football-online-08822496.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://football-online-08822496.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://football-online-08822496.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://football-online-08822496.zappy5.app/product/:slug
+פרטי המוצר - Football online
+
+### Category
+https://football-online-08822496.zappy5.app/category/:slug
+מוצרים - Football online
+
+## Legal & Policy
+
+### Privacy Policy
+https://football-online-08822496.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://football-online-08822496.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://football-online-08822496.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Football online
+An online store specializing in football (soccer) shirts and jerseys. The business focuses on selling football apparel, likely catering to football fans and enthusiasts who want to purchase team jerseys or football-related clothing.
+
+## Target Audience
+- אספני חולצות כדורגל
+- שחקני ליגות נוער
+- אוהדי כדורגל בינלאומיים
+
+## Industry
+Sports Apparel E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://football-online-08822496.zappy5.app/sitemap.xml
+- Robots: https://football-online-08822496.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://football-online-08822496.zappy5.app/llms-full.txt
+- Products (JSON): https://football-online-08822496.zappy5.app/products.json
+- Products (Google Merchant RSS): https://football-online-08822496.zappy5.app/product-feed.xml
