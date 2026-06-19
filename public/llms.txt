@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://football-online-08822496.zappy5.app
+https://example.com
 חנות האונליין המובילה לחולצות וגופיות כדורגל מקוריות. הצטרף עכשיו לעולם האוהדים, בחר את הקבוצה שלך ולבש את התשוקה. משלוח מהיר, מבצעים חמים וכל העדכונים ישירות אליך!
 
 ### עולם האוספים
-https://football-online-08822496.zappy5.app/collections-world
+https://example.com/collections-world
 צלול לאוסף עצום של גופיות כדורגל מכל הליגות והנבחרות בעולם. מצא דגמים נדירים, עיצובים בלעדיים ומהדורות מיוחדות שיגרמו לך להתבלט ביציע. התחל לאסוף עוד היום!
 
 ### אודות
-https://football-online-08822496.zappy5.app/about
+https://example.com/about
 הכירו את האנשים שהפכו אהבת כדורגל לחזון – חנות שמביאה את רוח המגרש לכל אוהד. אנו מחויבים לאיכות, מקוריות ושירות אישי שיגרום לך להרגיש חלק מהקבוצה. בוא לשמוע עוד.
 
 ### צור קשר
-https://football-online-08822496.zappy5.app/contact
+https://example.com/contact
 צריך עזרה בבחירת החולצה המושלמת? רוצה להתלונן או סתם לדבר כדורגל? צוות המומחים שלנו זמין לענות על כל פנייה במהירות ובאהבה. מלא את הטופס וקבל מענה אישי תוך שעות!
 
 ### Products
-https://football-online-08822496.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Football online
 
 ### Cart
-https://football-online-08822496.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://football-online-08822496.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://football-online-08822496.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://football-online-08822496.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://football-online-08822496.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://football-online-08822496.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Football online
 
 ### Category
-https://football-online-08822496.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Football online
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://football-online-08822496.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://football-online-08822496.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://football-online-08822496.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://football-online-08822496.zappy5.app/sitemap.xml
-- Robots: https://football-online-08822496.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://football-online-08822496.zappy5.app/llms-full.txt
-- Products (JSON): https://football-online-08822496.zappy5.app/products.json
-- Products (Google Merchant RSS): https://football-online-08822496.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
